@@ -1,0 +1,34 @@
+How to start ?
+ project folder - html,css ,font ,img , video ,vendor 
+   files 
+   editor 
+   browser 
+
+
+  defination-
+    rooot directory - project life r 1st indow , indexm.html will be in root directory
+
+
+ 1st code 
+   template 
+   head -support ,link up ,info
+   body -content
+
+
+element , tag , attribute 
+   title - h1-h6
+   text - p 
+   image -
+       src,alt 
+   ink 
+      internal -
+      external -fb -tw-li
+      <a herf>about us</a>
+
+ abc 
+   additional data -tag / element    
+   name ="value "
+    starting tag
+
+
+    file path-
